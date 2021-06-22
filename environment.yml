@@ -8,3 +8,4 @@ dependencies:
   - netcdf4
   - python=3.8
   - xarray>=0.18.2
+  - python3-wget
