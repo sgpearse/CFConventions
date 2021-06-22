@@ -1,2 +1,2 @@
-python3-wget==0.9
+python3-wget
 xarray==0.18.2
